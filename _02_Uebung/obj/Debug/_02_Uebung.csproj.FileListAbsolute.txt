@@ -1,0 +1,6 @@
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\bin\Debug\_02_Uebung.exe.config
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\bin\Debug\_02_Uebung.exe
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\bin\Debug\_02_Uebung.pdb
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\obj\Debug\_02_Uebung.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\obj\Debug\_02_Uebung.exe
+C:\Users\CC-Student\source\repos\00_demo\_02_Uebung\obj\Debug\_02_Uebung.pdb
