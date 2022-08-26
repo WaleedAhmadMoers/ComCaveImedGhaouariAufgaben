@@ -9,11 +9,13 @@ namespace _03_Aufgabe
     class Program
     {
         static void Main(string[] args)
+
         {
+            //geeting First Value 
             double Value1 = UserInput();
-
+            //geeting Second Value 
             double Value2 = UserInput();
-
+            //geeting final result after geeting the value if True or False
             string result = FinalResult(Value1, Value2);
 
             Console.WriteLine(result);
@@ -26,6 +28,7 @@ namespace _03_Aufgabe
         static double UserInput()
         {
             Console.WriteLine("Enter a number ");
+
             double GetNumber = Double.Parse(Console.ReadLine());
 
             return GetNumber;

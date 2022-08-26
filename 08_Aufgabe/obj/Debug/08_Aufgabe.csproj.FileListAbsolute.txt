@@ -1,0 +1,7 @@
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\bin\Debug\08_Aufgabe.exe.config
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\bin\Debug\08_Aufgabe.exe
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\bin\Debug\08_Aufgabe.pdb
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\obj\Debug\08_Aufgabe.csproj.AssemblyReference.cache
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\obj\Debug\08_Aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\obj\Debug\08_Aufgabe.exe
+C:\Users\CC-Student\source\repos\00_demo\08_Aufgabe\obj\Debug\08_Aufgabe.pdb

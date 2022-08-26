@@ -1,0 +1,7 @@
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\bin\Debug\04_augabe.exe.config
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\bin\Debug\04_augabe.exe
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\bin\Debug\04_augabe.pdb
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\obj\Debug\04_augabe.csproj.AssemblyReference.cache
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\obj\Debug\04_augabe.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\obj\Debug\04_augabe.exe
+C:\Users\CC-Student\source\repos\00_demo\04_augabe\obj\Debug\04_augabe.pdb

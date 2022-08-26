@@ -1,0 +1,6 @@
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\bin\Debug\10_aufgabe.exe.config
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\bin\Debug\10_aufgabe.exe
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\bin\Debug\10_aufgabe.pdb
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\obj\Debug\10_aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\obj\Debug\10_aufgabe.exe
+C:\Users\CC-Student\source\repos\00_demo\10_aufgabe\obj\Debug\10_aufgabe.pdb
